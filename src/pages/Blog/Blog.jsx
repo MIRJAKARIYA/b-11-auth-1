@@ -1,11 +1,14 @@
-import React, { useContext } from 'react';
+import React, { useContext, useEffect, useState } from 'react';
 import { valueConText } from '../../RootLayout/RootLayout';
 
 const Blog = () => {
     const handleLogin = useContext(valueConText)
+
     return (
         <div>
-            I am blog
+            I am Blog
+           
+            <br />
         </div>
     );
 };

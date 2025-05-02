@@ -1,0 +1,288 @@
+[
+    {
+      "company": {
+        "name": "DriveEasy Rentals",
+        "logo": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60"
+      },
+      "vehicle": {
+        "id": "V001",
+        "type": "Compact",
+        "make": "Toyota",
+        "model": "Corolla",
+        "year": 2023,
+        "daily_rate": 35.99,
+        "photo": "https://images.unsplash.com/photo-1588421357574-5c36887b776a?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60"
+      }
+    },
+    {
+      "company": {
+        "name": "Bd Rentals",
+        "logo": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60"
+      },
+      "vehicle": {
+        "id": "V002",
+        "type": "SUV",
+        "make": "Honda",
+        "model": "CR-V",
+        "year": 2024,
+        "daily_rate": 55.99,
+        "photo": "https://images.unsplash.com/photo-1592805723127-9049b7fc4f17?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60"
+      }
+    },
+    {
+      "company": {
+        "name": "pak Rentals",
+        "logo": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60"
+      },
+      "vehicle": {
+        "id": "V003",
+        "type": "Luxury",
+        "make": "BMW",
+        "model": "3 Series",
+        "year": 2024,
+        "daily_rate": 89.99,
+        "photo": "https://images.unsplash.com/photo-1580273916550-ebdde4c6421f?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60"
+      }
+    },
+    {
+      "company": {
+        "name": "india Rentals",
+        "logo": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60"
+      },
+      "vehicle": {
+        "id": "V004",
+        "type": "Sedan",
+        "make": "Hyundai",
+        "model": "Elantra",
+        "year": 2023,
+        "daily_rate": 39.99,
+        "photo": "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60"
+      }
+    },
+    {
+      "company": {
+        "name": "Sundarban Rentals",
+        "logo": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60"
+      },
+      "vehicle": {
+        "id": "V005",
+        "type": "Minivan",
+        "make": "Chrysler",
+        "model": "Pacifica",
+        "year": 2023,
+        "daily_rate": 65.99,
+        "photo": "https://images.unsplash.com/photo-1590650046871-92c887180603?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60"
+      }
+    },
+    {
+      "company": {
+        "name": "DriveEasy Rentals",
+        "logo": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60"
+      },
+      "vehicle": {
+        "id": "V006",
+        "type": "Compact",
+        "make": "Nissan",
+        "model": "Sentra",
+        "year": 2023,
+        "daily_rate": 34.99,
+        "photo": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60"
+      }
+    },
+    {
+      "company": {
+        "name": "DriveEasy Rentals",
+        "logo": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60"
+      },
+      "vehicle": {
+        "id": "V007",
+        "type": "SUV",
+        "make": "Ford",
+        "model": "Escape",
+        "year": 2024,
+        "daily_rate": 52.99,
+        "photo": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60"
+      }
+    },
+    {
+      "company": {
+        "name": "DriveEasy Rentals",
+        "logo": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60"
+      },
+      "vehicle": {
+        "id": "V008",
+        "type": "Luxury",
+        "make": "Mercedes-Benz",
+        "model": "C-Class",
+        "year": 2024,
+        "daily_rate": 95.99,
+        "photo": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60"
+      }
+    },
+    {
+      "company": {
+        "name": "DriveEasy Rentals",
+        "logo": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60"
+      },
+      "vehicle": {
+        "id": "V009",
+        "type": "Truck",
+        "make": "Chevrolet",
+        "model": "Silverado 1500",
+        "year": 2023,
+        "daily_rate": 69.99,
+        "photo": "https://images.unsplash.com/photo-1502744688674-c6194826288e?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60"
+      }
+    },
+    {
+      "company": {
+        "name": "DriveEasy Rentals",
+        "logo": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60"
+      },
+      "vehicle": {
+        "id": "V010",
+        "type": "Compact",
+        "make": "Kia",
+        "model": "Forte",
+        "year": 2023,
+        "daily_rate": 33.99,
+        "photo": "https://images.unsplash.com/photo-1502877338535-766e1452684a?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60"
+      }
+    },
+    {
+      "company": {
+        "name": "DriveEasy Rentals",
+        "logo": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60"
+      },
+      "vehicle": {
+        "id": "V011",
+        "type": "SUV",
+        "make": "Jeep",
+        "model": "Cherokee",
+        "year": 2024,
+        "daily_rate": 59.99,
+        "photo": "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60"
+      }
+    },
+    {
+      "company": {
+        "name": "DriveEasy Rentals",
+        "logo": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60"
+      },
+      "vehicle": {
+        "id": "V012",
+        "type": "Sedan",
+        "make": "Volkswagen",
+        "model": "Jetta",
+        "year": 2023,
+        "daily_rate": 38.99,
+        "photo": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60"
+      }
+    },
+    {
+      "company": {
+        "name": "DriveEasy Rentals",
+        "logo": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60"
+      },
+      "vehicle": {
+        "id": "V013",
+        "type": "Luxury",
+        "make": "Audi",
+        "model": "A4",
+        "year": 2024,
+        "daily_rate": 92.99,
+        "photo": "https://images.unsplash.com/photo-1502489597346-dad15683d857?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60"
+      }
+    },
+    {
+      "company": {
+        "name": "DriveEasy Rentals",
+        "logo": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60"
+      },
+      "vehicle": {
+        "id": "V014",
+        "type": "Minivan",
+        "make": "Dodge",
+        "model": "Grand Caravan",
+        "year": 2023,
+        "daily_rate": 62.99,
+        "photo": "https://images.unsplash.com/photo-1590650046871-92c887180603?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60"
+      }
+    },
+    {
+      "company": {
+        "name": "DriveEasy Rentals",
+        "logo": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60"
+      },
+      "vehicle": {
+        "id": "V015",
+        "type": "Compact",
+        "make": "Mazda",
+        "model": "Mazda3",
+        "year": 2023,
+        "daily_rate": 36.99,
+        "photo": "https://images.unsplash.com/photo-1502877338535-766e1452684a?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60"
+      }
+    },
+    {
+      "company": {
+        "name": "DriveEasy Rentals",
+        "logo": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60"
+      },
+      "vehicle": {
+        "id": "V016",
+        "type": "SUV",
+        "make": "Subaru",
+        "model": "Outback",
+        "year": 2024,
+        "daily_rate": 57.99,
+        "photo": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60"
+      }
+    },
+    {
+      "company": {
+        "name": "DriveEasy Rentals",
+        "logo": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60"
+      },
+      "vehicle": {
+        "id": "V017",
+        "type": "Truck",
+        "make": "Ram",
+        "model": "1500",
+        "year": 2023,
+        "daily_rate": 72.99,
+        "photo": "https://images.unsplash.com/photo-1502744688674-c6194826288e?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60"
+      }
+    },
+    
+    {
+      "company": {
+        "name": "DriveEasy Rentals",
+        "logo": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60"
+      },
+      "vehicle": {
+        "id": "V019",
+        "type": "Luxury",
+        "make": "Lexus",
+        "model": "ES",
+        "year": 2024,
+        "daily_rate": 87.99,
+        "photo": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60"
+      }
+    },
+    {
+      "company": {
+        "name": "DriveEasy Rentals",
+        "logo": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60"
+      },
+      "vehicle": {
+        "id": "V020",
+        "type": "Compact",
+        "make": "Honda",
+        "model": "Civic",
+        "year": 2023,
+        "daily_rate": 34.99,
+        "photo": "https://images.unsplash.com/photo-1588421357574-5c36887b776a?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=60"
+      }
+    }
+  ]
